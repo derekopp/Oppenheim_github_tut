@@ -1,9 +1,9 @@
 {
     "id": "019B8386",
-    "path": null,
-    "project_path": null,
+    "path": "~/Desktop/LING 343 Projects/Oppenheim_github_tut/p15.qmd",
+    "project_path": "p15.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "3259260290",
     "contents": "",
     "dirty": false,
     "created": 1730312719331.0,
@@ -17,11 +17,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 146028888097,
-    "encoding": "",
+    "lastKnownWriteTime": 1730314767,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1730312719331,
+    "last_content_update": 1730314767231,
     "read_only": false,
     "read_only_alternatives": []
 }
